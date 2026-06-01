@@ -224,8 +224,7 @@ print(me.motto())
 |---|---|---|---|
 | **M.Sc Cyber Security** | AJK College of Arts and Science | 2025 – Present | Tamil Nadu |
 | **BCA** | S.T. Hindu College | 2022 – 2025 | Tamil Nadu |
-| **HSC** | Govt Hr Sec School Thovalai | 2022 | Tamil Nadu |
-| **SSLC** | Govt Hr Sec School Aralvaimozhi | 2020 | Tamil Nadu |
+
 
 </div>
 
