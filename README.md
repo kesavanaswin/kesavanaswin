@@ -1,116 +1,137 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=160&section=header&text=KESAVAN%20ASWIN%20E&fontSize=38&fontColor=00ff9f&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20Defense&descAlignY=58&descSize=15" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Kesavan Aswin E — cybersecurity and security engineering profile">
+</picture>
 
-<br/>
+Kesavan Aswin E
 
-<div align="center">
+M.Sc. Cyber Security student | Security Engineering | Offensive Security | Network Defense
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00FF9F&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;MSc+Cyber+Security+%40+AJK+College;Ethical+Hacking+%26+Cyber+Defense;Hack+to+learn.+Learn+to+defend.)](https://git.io/typing-svg)
+I build practical security tools and study how vulnerabilities, network behavior, runtime signals, and system configuration can be combined into actionable security decisions.
 
-  <br/>
+My current postgraduate work focuses on a lightweight, real-time Container Security Posture Management (CSPM) framework for Docker/Kubernetes environments.
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=kesavanaswin&color=00ff9f&style=flat-square&label=Profile+Views)](https://github.com/kesavanaswin)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-aswin)
-  [![Gmail](https://img.shields.io/badge/Email-kesavanaswin05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kesavanaswin05@gmail.com)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+Focus
 
-</div>
+Offensive security and vulnerability assessment
 
----
+Network security monitoring and defense
 
-### 👨‍💻 About
+Container and Kubernetes security
 
-I'm **Kesavan Aswin E** from Kanniyakumari, Tamil Nadu.  
-Currently pursuing **M.Sc Cyber Security** at AJK College of Arts & Science.
+Security automation with Python
 
-I focus on **offensive security**, **network defense**, and building practical tools that turn curiosity into real protection.
+Configuration and posture analysis
 
-> **Motto:** *Hack to learn. Learn to defend.*
+Practical security tooling and technical documentation
 
----
+Featured Project
 
-### 🛠️ Tech Arsenal
+CSPM — Context-Aware Container Security Posture Management
 
-**Languages & Databases**  
-`Python` `PHP` `C++` `JavaScript` `HTML/CSS` `MySQL` `MongoDB`
+A lightweight, real-time framework that unifies vulnerability scanning, misconfiguration auditing, and runtime anomaly detection into a context-aware risk-analysis pipeline.
 
-**Security & Networking**  
-`Linux` `Kali` `Nmap` `Wireshark` `Bash` `TryHackMe`
+Architecture
 
-**Tools**  
-`VS Code` `Git` `GitHub`
+Docker / Kubernetes → Ingestion → Analysis → Correlation → Risk Scoring → Alerting / Mitigation
 
----
+Core components
 
-### 💼 Experience
+OPA / Rego for configuration and policy analysis
 
-<details>
-<summary><b>🛡️ Prodigy InfoTech</b> — Cybersecurity Intern (Dec 2025 – Jan 2026)</summary>
-<br/>
+Trivy for vulnerability scanning
 
-- Performed vulnerability assessments and basic penetration testing on web applications  
-- Built Python scripts for network monitoring and threat analysis  
-- Prepared cybersecurity reports and documentation  
+Falco / eBPF telemetry for runtime events
 
-</details>
+Isolation Forest for anomaly analysis
 
-<details>
-<summary><b>🌐 InTernPe</b> — Web Developer (Jun 2025 – Jul 2025)</summary>
-<br/>
+Correlation and context-aware risk scoring
 
-- Developed and optimized responsive HTML/JS web applications  
-- Strengthened frontend skills and problem-solving under real project constraints  
+Kubernetes admission-control and alerting integrations
 
-</details>
+Security Stack
 
-<details>
-<summary><b>📊 YBI Foundation</b> — Data Science Intern (May 2024 – Jun 2024)</summary>
-<br/>
+Languages
 
-- Analyzed datasets with Python and contributed to AI-driven projects  
-- Created reports and visualizations for data-driven decisions  
+Python PHP C++ JavaScript HTML/CSS
 
-</details>
+Security & Networking
 
-<details>
-<summary><b>💼 Aspro Technologies</b> — Business Development Executive (Nov 2023 – Apr 2024)</summary>
-<br/>
+Linux Kali Linux Nmap Wireshark Bash
 
-- Expanded client base through targeted outreach and market research  
-- Built long-term client relationships and met monthly sales targets  
+Data
 
-</details>
+MySQL MongoDB SQL
 
----
+Security Engineering
 
-### 🚀 Projects
+Docker Kubernetes OPA/Rego Trivy Falco eBPF
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **Inventory Management System** | Python · PHP · MySQL | Streamlined resource tracking and reporting with a clean user interface |
-| **Weather Dashboard** | Python · HTML · JS · API | Real-time weather monitoring platform with live data and clean UI |
+Tools
 
----
+Git GitHub VS Code
 
-### 🎖️ Certifications & Achievements
+Selected Projects
 
-- Foundations of Cybersecurity — **Google**
-- Intro to Cybersecurity Tools & Cyberattacks — **IBM**
-- Advent of Cyber 2025 — **TryHackMe**
-- Honourable Diploma in Computer Application — **Aspro Technologies**
-- Fundamentals of Python AI and Data Skills — **YBI Foundation**
-- Basics of Inventory Management — **TCS**
+Weather Dashboard
 
----
+A web application for current weather and five-day forecasts, with search history stored in local storage.
 
-### 🎓 Education
+Repository
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **M.Sc Cyber Security** | AJK College of Arts and Science | 2025 – Present |
-| **BCA** | S.T. Hindu College | 2022 – 2025 |
+Live application
 
----
+Image Encryption
 
-### 🌱 Currently Leveling Up
+A Python security project exploring image encryption techniques.
+
+Repository
+
+Caesar Cipher
+
+A Python implementation of the Caesar cipher for introductory cryptography practice.
+
+Repository
+
+Experience
+
+Triarch Private Limited — Cybersecurity & DevOps Intern
+Jun 2026
+
+Prodigy InfoTech — Cybersecurity Intern
+Dec 2025 – Jan 2026
+
+InTermPe — Web Developer
+Jun 2025 – Jul 2025
+
+YBI Foundation — Data Science Intern
+May 2024 – Jun 2024
+
+Education
+
+M.Sc. Cyber Security — AJK College of Arts & Science
+2025 – Present
+
+BCA — S.T. Hindu College
+2022 – 2025
+
+Certifications & Learning
+
+Foundations of Cybersecurity — Google
+
+Intro to Cybersecurity Tools & Cyberattacks — IBM
+
+Advent of Cyber 2025 — TryHackMe
+
+Fundamentals of Python AI and Data Skills — YBI Foundation
+
+Basics of Inventory Management — TCS
+
+Honourable Diploma in Computer Application — Aspro Technologies
+
+Connect
+
+GitHub: @kesavanaswin
+
+Security is not a single layer. It is context, visibility, analysis, and response working together.
