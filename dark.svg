@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
+     role="img" aria-label="Kesavan Aswin E — cybersecurity profile with terminal and security system interface">
+  <title>Kesavan Aswin E — Cybersecurity Profile</title>
+  <desc>Premium terminal-style profile banner for a cybersecurity postgraduate focused on offensive security, network defense, and container security posture management.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".55" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1220"/>
+      <animate attributeName="x1" values="0;.15;0" dur="18s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="15%" cy="10%" r="70%">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="95%" cy="90%" r="60%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset=".52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#10B981"/>
+      <animate attributeName="x1" values="0;.7;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="rgba(0,0,0,.45)" flood-opacity=".45"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#1E293B" stroke-opacity=".28" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="6" height="8" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1" y="0" fill="#22D3EE" opacity=".055"/>
+    </pattern>
+    <clipPath id="frameClip"><rect x="12" y="12" width="1156" height="586" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="1180" height="610" fill="url(#bg)"/>
+    <rect width="1180" height="610" fill="url(#grid)"/>
+    <rect width="1180" height="610" fill="url(#violetGlow)"/>
+    <rect width="1180" height="610" fill="url(#cyanGlow)"/>
+    <rect width="1180" height="610" fill="url(#scan)"/>
+
+    <!-- restrained ambient particles -->
+    <g fill="#67E8F9" opacity=".18">
+      <circle cx="80" cy="96" r="1.5"><animate attributeName="cy" values="96;82;96" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="1085" cy="128" r="1.2"><animate attributeName="cy" values="128;143;128" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="1030" cy="528" r="1.4"><animate attributeName="cx" values="1030;1042;1030" dur="8s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- outer frame -->
+    <rect x="12" y="12" width="1156" height="586" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".72" stroke-width="1.2"/>
+    <rect x="17" y="17" width="1146" height="576" rx="20" fill="none" stroke="#334155" stroke-opacity=".55"/>
+
+    <!-- terminal header -->
+    <rect x="32" y="32" width="1116" height="44" rx="12" fill="#0F172A" fill-opacity=".25" stroke="#334155" stroke-opacity=".75"/>
+    <circle cx="54" cy="54" r="5" fill="#EF4444"/>
+    <circle cx="72" cy="54" r="5" fill="#EAB308"/>
+    <circle cx="90" cy="54" r="5" fill="#22C55E"/>
+    <text x="114" y="59" class="terminal">kesavanaswin@profile:~</text>
+    <text x="1014" y="59" class="status">[ ONLINE ]</text>
+    <circle cx="1002" cy="54" r="3" fill="#10B981">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- left visual panel -->
+    <rect x="32" y="92" width="474" height="472" rx="18" fill="#0B1220" fill-opacity=".25" stroke="#334155" stroke-opacity=".82" filter="url(#shadow)"/>
+    <rect x="49" y="109" width="440" height="30" rx="9" fill="#111827" fill-opacity=".45" stroke="#334155" stroke-opacity=".5"/>
+    <text x="269" y="129" text-anchor="middle" class="section">SECURITY.MAP</text>
+
+    <text x="269" y="171" text-anchor="middle" class="micro">CONTEXT / DEFENSE / POSTURE</text>
+
+    <!-- abstract terminal-rendered security glyph, not a personal likeness -->
+    <g filter="url(#glow)" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+       font-size="10" letter-spacing="0">
+      <text x="235" y="235" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.800s" dur=".32s" fill="freeze"/>        .·:+*#%@@%#*+:·.</text><text x="235" y="246" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.855s" dur=".32s" fill="freeze"/>      .·+*#%@@%%%%@@%#*+·.</text><text x="235" y="257" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.910s" dur=".32s" fill="freeze"/>    .·+*#%@@%#*++*#%@@%#*+·.</text><text x="235" y="268" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.965s" dur=".32s" fill="freeze"/>   ·+*#@@%#+·      ·+#%@@#*+·</text><text x="235" y="279" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.020s" dur=".32s" fill="freeze"/>  ·*#@@%*·   .:+:    ·*%@@#*·</text><text x="235" y="290" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.075s" dur=".32s" fill="freeze"/> ·#@@%+   .·+###+·.    +%@@#·</text><text x="235" y="301" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.130s" dur=".32s" fill="freeze"/> *@@%·   ·+#@@@@@#+·     ·%@@*</text><text x="235" y="312" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.185s" dur=".32s" fill="freeze"/> #@@+   ·#@@%#*#%@@#·     +@@#</text><text x="235" y="323" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.240s" dur=".32s" fill="freeze"/> %@@·  ·%@@#·   ·#@@%·    ·@@%</text><text x="235" y="334" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.295s" dur=".32s" fill="freeze"/> %@@·  *@@@·     ·@@@*    ·@@%</text><text x="235" y="345" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.350s" dur=".32s" fill="freeze"/> #@@+  %@@+       +@@%    +@@#</text><text x="235" y="356" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.405s" dur=".32s" fill="freeze"/> *@@%· #@@·       ·@@#   ·%@@*</text><text x="235" y="367" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.460s" dur=".32s" fill="freeze"/> ·#@@%+%@@·       ·@@%+%@@#·</text><text x="235" y="378" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.515s" dur=".32s" fill="freeze"/>  ·*#@@%@@%·     ·%@@%@@#*·</text><text x="235" y="389" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.570s" dur=".32s" fill="freeze"/>   ·+*#%@@@%#*++*#%@@@%#*+·</text><text x="235" y="400" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.625s" dur=".32s" fill="freeze"/>     ·+*#%@@%%%%@@%#*+·</text><text x="235" y="411" class="ascii" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.680s" dur=".32s" fill="freeze"/>       ··+*#%@@@@%#*+··</text>
+    </g>
+
+    <line x1="94" y1="442" x2="444" y2="442" stroke="url(#accent)" stroke-opacity=".45"/>
+    <text x="269" y="470" text-anchor="middle" class="headline">SECURITY ENGINEERING</text>
+    <text x="269" y="495" text-anchor="middle" class="sub">Offensive security · network defense</text>
+    <text x="269" y="531" text-anchor="middle" class="prompt">~/profile $ build --defend<span class="cursor">_</span></text>
+
+    <!-- right system panel -->
+    <rect x="526" y="92" width="622" height="472" rx="18" fill="#0F172A" fill-opacity=".25" stroke="#334155" stroke-opacity=".82" filter="url(#shadow)"/>
+    <rect x="546" y="112" width="582" height="44" rx="11" fill="#111827" fill-opacity=".50" stroke="#334155" stroke-opacity=".55"/>
+    <text x="570" y="140" class="system">SYSTEM.INFO</text>
+    <text x="1098" y="140" text-anchor="end" class="micro">PROFILE.SH / 01</text>
+
+    <text x="570" y="190" class="terminal">kesavanaswin@profile:~$ ./profile.sh</text>
+
+    <g>
+      <text x="570" y="230" class="name">Kesavan Aswin E</text>
+      <text x="570" y="257" class="headline2">Cybersecurity · Security Engineering</text>
+      <line x1="570" y1="271" x2="1104" y2="271" stroke="url(#accent)" stroke-opacity=".55"/>
+    </g>
+
+    
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="1.55s" dur=".45s" fill="freeze"/>
+          <text x="665" y="286" class="label">&gt; NAME</text>
+          <text x="775" y="286" class="value">Kesavan Aswin E</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="1.67s" dur=".45s" fill="freeze"/>
+          <text x="665" y="325" class="label">&gt; ROLE</text>
+          <text x="775" y="325" class="value">Cybersecurity / Security Engineering</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="1.79s" dur=".45s" fill="freeze"/>
+          <text x="665" y="364" class="label">&gt; EDUCATION</text>
+          <text x="775" y="364" class="value">M.Sc Cyber Security · AJK College</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="1.91s" dur=".45s" fill="freeze"/>
+          <text x="665" y="403" class="label">&gt; FOCUS</text>
+          <text x="775" y="403" class="value">Offensive Security · Network Defense</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="2.03s" dur=".45s" fill="freeze"/>
+          <text x="665" y="442" class="label">&gt; STACK</text>
+          <text x="775" y="442" class="value">Python · Linux · Nmap · Wireshark</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="2.15s" dur=".45s" fill="freeze"/>
+          <text x="665" y="481" class="label">&gt; PROJECT</text>
+          <text x="775" y="481" class="value">Context-Aware Container CSPM</text>
+        </g>
+
+    <rect x="570" y="506" width="534" height="38" rx="10" fill="#22D3EE" fill-opacity=".055" stroke="#22D3EE" stroke-opacity=".22"/>
+    <circle cx="591" cy="525" r="4" fill="#10B981"/>
+    <text x="606" y="530" class="small">FEATURED → Context-Aware Container Security Posture Management</text>
+  </g>
+
+  <style>
+    .terminal { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; fill: #94A3B8; letter-spacing: .2px; }
+    .status { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #10B981; letter-spacing: 1.5px; }
+    .section { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; fill: #F8FAFC; letter-spacing: 2.2px; font-weight: 700; }
+    .micro { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 9px; fill: #94A3B8; letter-spacing: 2px; }
+    .ascii { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10px; fill: #22D3EE; letter-spacing: .15px; }
+    .headline { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 16px; fill: #F8FAFC; font-weight: 800; letter-spacing: 2px; }
+    .sub { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #94A3B8; }
+    .prompt { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #22D3EE; }
+    .system { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 14px; fill: #F8FAFC; font-weight: 800; letter-spacing: 1.5px; }
+    .name { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 28px; fill: #F8FAFC; font-weight: 800; letter-spacing: -.6px; }
+    .headline2 { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; fill: #22D3EE; }
+    .label { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10px; fill: #94A3B8; letter-spacing: 1.2px; }
+    .value { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #F8FAFC; }
+    .small { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10px; fill: #F8FAFC; }
+    .cursor { fill: #22D3EE; }
+  </style>
+</svg>
