@@ -11,7 +11,7 @@
   <br/>
 
   [![Profile Views](https://komarev.com/ghpvc/?username=kesavanaswin&color=00ff9f&style=flat-square&label=Profile+Views)](https://github.com/kesavanaswin)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-aswin)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-aswin-e)
   [![Gmail](https://img.shields.io/badge/Email-kesavanaswin05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kesavanaswin05@gmail.com)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
